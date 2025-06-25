@@ -1,5 +1,6 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-This modpack is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+![Modloader: Fabric](https://img.shields.io/badge/Modloader-Fabric-blueviolet?style=flat&logo=fabric)
+![Shaders: Iris Supported](https://img.shields.io/badge/Shaders-Iris%20Supported-9cf?style=flat&logo=apachespark)
 
 ## 🪻 Lavendre CIT – A Cottagecore Vanilla+ Modpack
 
