@@ -1,0 +1,51 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Ignore everything by default
+*
+
+# Don't ignore these folders
+!config/
+!mods/
+!resourcepacks/
+!shaderpacks/
+!BASE/
+!scripts/
+!datapacks/
+
+# Include everything inside those folders
+!config/**
+!mods/**
+!resourcepacks/**
+!shaderpacks/**
+!BASE/**
+!scripts/**
+!datapacks/**
+
+# BUT ignore specific files inside config
+/config/iris.properties
+/config/indium-renderer.properties
+/config/c2me.toml
+/config/fabric/indigo-renderer.properties
+
+# Ignore Axiom
+/mods/Axiom-4.8.0-for-MC1.20.1.jar
+/config/axiom/**
+
+# Include these files in the root
+!options.txt
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
