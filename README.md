@@ -1,5 +1,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![Modloader: Fabric](https://img.shields.io/badge/Modloader-Fabric-blueviolet?style=flat&logo=fabric)
+![Status: Early Bloom, Handle Gently](https://img.shields.io/badge/Status-Early%20Bloom,%20Handle%20Gently-fae1f4)
+
 
 ## 🪻 Lavendre CIT – A Cottagecore Vanilla+ Modpack
 
